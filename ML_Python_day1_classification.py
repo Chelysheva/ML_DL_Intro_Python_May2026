@@ -5,7 +5,7 @@ Machine Learning in Python with scikit-learn
 Breast Cancer dataset analysis (classification problem)
 Author: Irina Chelysheva
 
-Date: March 11th, 2026
+Date: May 6th, 2026
 Breast Cancer Wisconsin (Diagnostic) Data Set extracted from UCI Machine Learning Repository
 (https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+(Diagnostic))
 """
