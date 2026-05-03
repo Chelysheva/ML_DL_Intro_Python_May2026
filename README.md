@@ -10,8 +10,8 @@ This course provides a practical introduction to applying machine learning and d
 
 You are expected to attend two half-day sessions:
 
-- **Wednesday, 11th March**: 10:00 - 13:00
-- **Friday, 13th March**: 10:00 - 13:00
+- **Wednesday, 6th May**: 10:00 - 13:00
+- **Friday, 8th May**: 10:00 - 13:00
 
 ## Requirements
 - Python 3.8 or above
