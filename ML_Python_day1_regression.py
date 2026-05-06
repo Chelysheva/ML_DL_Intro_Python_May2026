@@ -124,7 +124,7 @@ plt.ylabel('Negative Mean Squared Error')
 plt.show()
 
 # 7. Train the best-performing model and evaluate it (hint: you can also try Ridge on your own)
-best_model = RandomForestRegressor()
+best_model = RandomForestRegressor(random_state=1)
 best_model.fit(Xa_train, ya_train)
 predictions = best_model.predict(Xa_test)
 
